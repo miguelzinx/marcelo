@@ -1,0 +1,38 @@
+body{
+    background-color: rgb( #94F3FF);
+}
+#imagem{
+    width: 200px;
+}
+form{
+    background-color: rgba(0, 0, 0, 0.256);
+    width: 240px;
+    height: 180px;
+    margin-top: 150px;
+}
+input[type="text"],
+
+input[type="password"],
+
+input[type="email"],
+select,
+input[type="Logizn"]
+{
+width: 90px 
+
+padding : 30px;
+
+margin-top : 1px;
+
+margin-bottom:1px;
+}
+
+#pais {
+   width: 180px;
+}
+#cadastro{
+    margin-left: 8px;
+}
+#esqueci{
+    margin-right: 8px;
+}
