@@ -1,0 +1,84 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #fff;
+    background: linear-gradient(to right, #18a5d4, #1693bc,#0a7497,#136682,#074357);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    padding: 10px;
+    margin-top: 25px;
+  }
+  
+  header h1 {
+    margin: 0;
+    background: linear-gradient(to right, #00bfff, #03aae1,#029acd,#017399,#025874);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+    text-align: center;
+  }
+  
+  nav ul li a {
+    color: rgb(13, 13, 13);
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  /* Estilos das seções */
+  section {
+    margin: 20px;
+  }
+  
+  section h3 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    color:red
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: rgb(0, 11, 230);
+    color: #fff;
+    padding: 10px;
+    height: 170px;
+  }
+
+
+#imagem{
+    width: 1600px;
+}
+.h3{
+    color:rgb(red,);
+}
+.menu{
+  left:50px;
+}
+#menu{
+  left: 200px;
+}
+#contato{
+  width: 35px;
+
+}h1 strong{
+  color: red;
+}
